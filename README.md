@@ -22,4 +22,4 @@ The app uses third-party services that may collect standard device identifiers a
 All match tips, statistics, and probability insights are provided solely for informational and entertainment purposes. Past performance and statistical modeling do not guarantee future match outcomes.
 
 ## 5. Contact Us & Data Deletion
-For support inquiries or to request the deletion of any associated account data, contact us at: **support@yourdomain.com**
+For support inquiries or to request the deletion of any associated account data, contact us at: **titusbii111@gmail.com**
