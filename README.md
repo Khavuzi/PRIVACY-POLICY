@@ -4,7 +4,7 @@ PRIVACY POLICY FOR AI FOOTBALL PREDICTOR
 
 Last updated: September 2026
 
-Football Predictor ("we," "our," or "us") respects your privacy. This policy outlines how we handle information in our mobile app.
+ ("we," "our," or "us") respects your privacy. This policy outlines how we handle information in our mobile app.
 
 ## 1. Information Collection & Use
 - **In-App Purchases:** All payment processing and subscriptions are securely managed by Google Play Billing. We do not process or store credit card details.
